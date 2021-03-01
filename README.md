@@ -1,4 +1,4 @@
-# 01-04-02-if-elagazas-1
+# 01-05-01-if-elagazas-1
 ## Egyágú elágazás
 Bevezető feladatok
 Ezeknél a feladatoknál az elágazásban csak igaz ágat használjon!
